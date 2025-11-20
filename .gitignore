@@ -1,0 +1,32 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Modelos / pesos
+*.pt
+*.pth
+*.h5
+*.onnx
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Saídas YOLO
+runs/
+
+# Dados pesados
+imagens/train/
+imagens/val/
+Videos/
+*.mp4
+*.avi
+*.mov
+*.jpg
+*.jpeg
+*.png
+
+# IDE
+.vscode/
+.idea/

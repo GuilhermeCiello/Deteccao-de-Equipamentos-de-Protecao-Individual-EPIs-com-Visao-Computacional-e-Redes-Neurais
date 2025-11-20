@@ -1,0 +1,6 @@
+path: C:\Users\guilherme\Desktop\TCC\imagens
+train: C:\Users\guilherme\Desktop\TCC\imagens\train\images
+val: C:\Users\guilherme\Desktop\TCC\imagens\val\images
+
+nc: 4
+names: ['capacete','colete','oculos','pessoa']
