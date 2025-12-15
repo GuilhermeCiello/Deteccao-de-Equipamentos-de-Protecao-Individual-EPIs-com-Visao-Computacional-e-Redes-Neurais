@@ -8,6 +8,10 @@ venv/
 *.h5
 *.onnx
 
+models/*
+!models/best.pt
+
+
 # Cache Python
 __pycache__/
 *.py[cod]
